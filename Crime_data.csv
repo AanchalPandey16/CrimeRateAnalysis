@@ -1,40 +1,40 @@
 Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Population,Crime Rate,Arrests,Crime Clearance Rate
 2018,Goa,Vasco da Gama,21,125,38,355,601856,58.98,294,82.82
 2019,Tamil Nadu,Coimbatore,136,114,76,730,454251,160.7,627,85.89
-2019,Madhya Pradesh,Gwalior,133,178,71,748,1881680,39.75,549,73.4
+2019,Madhya Pradesh,Gwalior,133,178,71,748,1881680,39.75,549,273.4
 2021,Haryana,Panipat,102,216,25,558,725939,76.87,435,77.96
 2020,Tripura,Agartala,100,259,75,487,1630786,29.86,363,74.54
-2021,Uttar Pradesh,Lucknow,63,193,11,355,299675,118.46,299,84.23
-2021,Kerala,Kochi,183,297,43,660,1557920,42.36,498,75.45
+2021,Uttar Pradesh,Lucknow,63,193,11,355,299675,118.46,299,1584.23
+2021,Kerala,Kochi,2183,297,43,660,1557920,42.36,498,0.45
 2019,Mizoram,Lunglei,138,234,68,814,987572,82.42,556,68.3
 2020,Uttarakhand,Haridwar,49,122,37,471,237128,198.63,373,79.19
 2021,Gujarat,Vadodara,196,76,58,467,177414,263.23,411,88.01
-2021,Maharashtra,Mumbai,33,178,7,643,1558180,41.27,381,59.25
+2021,Maharashtra,Mumbai,33,178,7,643,1558180,41.27,1381,259.25
 2020,Chhattisgarh,Raipur,166,151,7,454,1039115,43.69,246,54.19
 2020,Meghalaya,Shillong,199,228,38,851,829575,102.58,836,98.24
-2021,Manipur,Thoubal,54,193,11,475,1296807,36.63,448,94.32
+2021,Manipur,Thoubal,54,193,11,475,1296807,36.63,448,1.32
 2021,Rajasthan,Udaipur,173,57,59,558,788664,70.75,308,55.2
 2019,Sikkim,Gyalshing,115,168,29,398,1549853,25.68,295,74.12
-2018,Tamil Nadu,Coimbatore,79,24,21,564,859597,65.61,500,88.65
+2018,Tamil Nadu,Coimbatore,79,24,21,564,859597,65.61,500,8.65
 2018,Meghalaya,Jowai,164,267,17,770,878236,87.68,602,78.18
 2020,Nagaland,Kohima,137,52,65,437,1145380,38.15,304,69.57
 2019,Uttarakhand,Nainital,88,293,71,947,1443318,65.61,941,99.37
-2020,Karnataka,Bengaluru,188,232,99,651,1842060,35.34,333,51.15
-2021,Kerala,Kozhikode,99,226,21,576,1508458,38.18,483,83.85
+2020,Karnataka,Bengaluru,188,232,99,651,1842060,35.34,333,1.15
+2021,Kerala,Kozhikode,1999,226,21,576,1508458,38.18,483,2.85
 2019,Odisha,Cuttack,126,157,36,516,1724949,29.91,445,86.24
 2020,Delhi,South Delhi,144,281,71,669,1077792,62.07,362,54.11
 2019,Odisha,Bhubaneswar,88,68,94,497,412502,120.48,453,91.15
 2019,Jharkhand,Dhanbad,95,258,49,861,294558,292.3,740,85.95
 2020,Jharkhand,Jamshedpur,121,188,98,564,94690,595.63,383,67.91
-2022,Delhi,Central Delhi,24,107,36,666,1746712,38.13,561,84.23
+2022,Delhi,Central Delhi,24,107,36,666,1746712,38.13,561,4.23
 2022,Meghalaya,Tura,29,137,42,636,1093893,58.14,583,91.67
 2018,Andhra Pradesh,Guntur,21,226,29,715,234112,305.41,370,51.75
 2018,Andhra Pradesh,Guntur,90,137,72,558,1798015,31.03,403,72.22
 2018,Bihar,Gaya,150,261,29,609,593493,102.61,305,50.08
-2022,Bihar,Muzaffarpur,67,126,79,768,1259099,61.0,482,62.76
+2022,Bihar,Muzaffarpur,67,126,79,768,1259099,61,482,62.76
 2018,Tamil Nadu,Madurai,140,239,82,692,1716509,40.31,605,87.43
 2021,Bihar,Patna,121,57,46,303,1742233,17.39,181,59.74
-2019,Karnataka,Bengaluru,77,79,91,732,1077672,67.92,606,82.79
+2019,Karnataka,Bengaluru,77,79,91,732,1077672,67.92,606,2.79
 2021,Tamil Nadu,Chennai,22,65,27,610,1579902,38.61,550,90.16
 2018,Ladakh,Leh,133,113,28,439,622098,70.57,304,69.25
 2021,Jharkhand,Jamshedpur,60,197,34,523,1198626,43.63,289,55.26
@@ -49,42 +49,42 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Haryana,Faridabad,12,104,79,312,479077,65.13,293,93.91
 2022,Maharashtra,Mumbai,142,118,83,765,1235640,61.91,676,88.37
 2021,Lakshadweep,Agatti,135,258,39,565,1297133,43.56,295,52.21
-2019,Delhi,New Delhi,137,163,32,439,1076614,40.78,378,86.1
+2019,Delhi,New Delhi,137,163,32,439,1076614,40.78,378,6.1
 2020,Madhya Pradesh,Indore,101,220,63,807,1083316,74.49,760,94.18
 2019,Uttarakhand,Haridwar,49,52,57,611,699851,87.3,379,62.03
 2019,Goa,Vasco da Gama,119,50,99,561,524591,106.94,303,54.01
 2018,Ladakh,Kargil,174,299,42,1003,488701,205.24,753,75.07
 2019,Maharashtra,Mumbai,46,216,19,442,1597310,27.67,253,57.24
-2022,West Bengal,Darjeeling,66,298,39,704,1245315,56.53,433,61.51
+2022,West Bengal,Darjeeling,66,298,39,704,1245315,56.53,433,1.51
 2020,Meghalaya,Jowai,75,252,36,638,1831701,34.83,487,76.33
 2019,Tamil Nadu,Chennai,114,181,14,408,1548029,26.36,362,88.73
 2022,Assam,Dibrugarh,54,35,95,618,495358,124.76,352,56.96
 2019,Andhra Pradesh,Guntur,188,207,24,672,1021434,65.79,651,96.88
 2021,Tripura,Udaipur,137,254,19,779,1108841,70.25,419,53.79
-2021,Karnataka,Mangaluru,118,34,50,445,1283496,34.67,322,72.36
+2021,Karnataka,Mangaluru,118,34,50,445,1283496,34.67,322,2.36
 2020,Haryana,Gurugram,96,284,88,649,1130968,57.38,328,50.54
 2021,Odisha,Cuttack,71,149,21,421,743654,56.61,309,73.4
 2020,Telangana,Warangal,173,242,6,792,496113,159.64,743,93.81
 2019,Tamil Nadu,Chennai,136,75,82,452,1292781,34.96,334,73.89
 2021,Andhra Pradesh,Guntur,83,145,32,544,813610,66.86,461,84.74
 2020,Maharashtra,Mumbai,113,287,84,829,168275,492.65,812,97.95
-2021,Kerala,Kozhikode,117,129,65,666,1427650,46.65,450,67.57
+2021,Kerala,Kozhikode,117,129,65,666,1427650,146.65,450,7.57
 2019,Andhra Pradesh,Vijayawada,105,164,70,657,1117443,58.79,486,73.97
 2021,Odisha,Rourkela,140,146,45,656,1106951,59.26,494,75.3
 2018,Rajasthan,Udaipur,199,256,68,941,751542,125.21,514,54.62
 2022,Telangana,Warangal,15,55,63,254,360406,70.48,223,87.8
 2020,Uttarakhand,Nainital,38,68,76,445,1757655,25.32,321,72.13
-2021,Madhya Pradesh,Indore,28,176,46,303,1948476,15.55,230,75.91
+2021,Madhya Pradesh,Indore,28,176,46,303,1948476,15.55,230,1275.91
 2022,Ladakh,Kargil,50,79,61,409,1786274,22.9,406,99.27
 2019,Tripura,Kailashahar,186,203,65,901,403309,223.4,723,80.24
-2018,Karnataka,Mangaluru,157,253,23,810,188296,430.17,581,71.73
+2018,Karnataka,Mangaluru,157,253,23,810,188296,1430.17,581,71.73
 2018,Jharkhand,Dhanbad,101,173,32,430,1171398,36.71,397,92.33
 2021,Jammu and Kashmir,Anantnag,154,179,11,452,983948,45.94,336,74.34
-2021,Dadra and Nagar Haveli and Daman and Diu,Silvassa,192,286,9,888,52051,1706.02,761,85.7
-2019,Dadra and Nagar Haveli and Daman and Diu,Daman,199,67,12,641,1442169,44.45,566,88.3
+2021,Kerala,Silvassa,1192,286,9,888,52051,1706.02,761,85.7
+2019,Kerala,Daman,1199,67,12,641,1442169,44.45,566,88.3
 2021,Manipur,Imphal,107,242,63,710,1849213,38.39,479,67.46
-2019,Andaman and Nicobar Islands,Port Blair,185,297,74,1033,1666164,62.0,630,60.99
-2021,Maharashtra,Nagpur,165,164,78,671,1325291,50.63,450,67.06
+2019,Andaman and Nicobar Islands,Port Blair,185,297,74,1033,1666164,62,630,60.99
+2021,Maharashtra,Nagpur,165,164,78,671,1325291,50.63,450,267.06
 2022,Odisha,Cuttack,84,249,73,748,1215098,61.56,745,99.6
 2020,Andaman and Nicobar Islands,Port Blair,86,144,39,521,928316,56.12,495,95.01
 2020,Bihar,Patna,44,112,97,617,1111282,55.52,374,60.62
@@ -100,7 +100,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Manipur,Churachandpur,68,128,47,370,1368510,27.04,292,78.92
 2022,Rajasthan,Jaipur,77,191,41,603,184710,326.46,529,87.73
 2019,Delhi,Central Delhi,108,224,79,479,1335823,35.86,340,70.98
-2022,Dadra and Nagar Haveli and Daman and Diu,Daman,40,41,98,389,1401218,27.76,310,79.69
+2022,kerala,Kozhikode,40,41,98,389,1401218,27.76,310,79.69
 2019,Lakshadweep,Kavaratti,92,199,88,822,209919,391.58,753,91.61
 2020,Haryana,Faridabad,183,101,63,437,859067,50.87,367,83.98
 2019,Uttarakhand,Dehradun,82,63,75,667,448795,148.62,463,69.42
@@ -110,7 +110,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Lakshadweep,Kavaratti,147,242,47,670,335053,199.97,600,89.55
 2022,Maharashtra,Nagpur,170,45,38,674,1179204,57.16,508,75.37
 2020,Himachal Pradesh,Mandi,182,120,44,426,1806450,23.58,341,80.05
-2019,Sikkim,Gangtok,159,277,10,504,1007951,50.0,343,68.06
+2019,Sikkim,Gangtok,159,277,10,504,1007951,50,343,68.06
 2021,Andhra Pradesh,Vijayawada,148,193,6,397,1458971,27.21,299,75.31
 2018,Lakshadweep,Minicoy,111,291,72,868,888268,97.72,491,56.57
 2019,Himachal Pradesh,Shimla,106,236,37,511,1766025,28.94,416,81.41
@@ -171,7 +171,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Chhattisgarh,Raipur,176,244,30,719,1479762,48.59,488,67.87
 2018,Rajasthan,Jaipur,26,48,82,488,658907,74.06,293,60.04
 2022,Uttar Pradesh,Agra,28,38,19,235,747060,31.46,222,94.47
-2019,Maharashtra,Mumbai,117,127,25,367,771078,47.6,356,97.0
+2019,Maharashtra,Mumbai,117,127,25,367,771078,47.6,356,97
 2020,Delhi,Central Delhi,111,236,55,815,776355,104.98,781,95.83
 2021,Kerala,Kozhikode,35,142,25,412,211073,195.19,209,50.73
 2018,Madhya Pradesh,Gwalior,118,89,73,532,1635369,32.53,271,50.94
@@ -207,13 +207,13 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Nagaland,Mokokchung,49,100,18,613,1298254,47.22,405,66.07
 2021,Haryana,Faridabad,136,102,54,391,1531694,25.53,344,87.98
 2021,Uttar Pradesh,Kanpur,116,156,15,356,1173714,30.33,339,95.22
-2018,West Bengal,Kolkata,24,163,13,271,657988,41.19,249,91.88
+2018,West Bengal,Kolkata,24,163,13,271,657988,41.19,249,81.88
 2019,Odisha,Bhubaneswar,167,163,47,675,726372,92.93,538,79.7
 2022,Telangana,Warangal,182,243,85,605,468773,129.06,360,59.5
 2022,Goa,Panaji,157,22,72,748,302048,247.64,392,52.41
 2018,Andaman and Nicobar Islands,Port Blair,147,228,42,659,1206357,54.63,513,77.85
 2019,Bihar,Patna,12,158,33,660,1700111,38.82,378,57.27
-2022,West Bengal,Siliguri,111,79,88,638,302342,211.02,618,96.87
+2022,West Bengal,Siliguri,111,79,88,638,302342,211.02,618,6.87
 2020,Arunachal Pradesh,Pasighat,12,202,74,764,1001344,76.3,584,76.44
 2020,Jammu and Kashmir,Anantnag,189,140,91,806,1859081,43.35,663,82.26
 2021,Tripura,Agartala,196,123,87,825,255004,323.52,607,73.58
@@ -227,8 +227,8 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Puducherry,Puducherry,74,96,44,367,1492962,24.58,281,76.57
 2019,Karnataka,Mysuru,96,209,9,715,1594700,44.84,389,54.41
 2018,Jammu and Kashmir,Srinagar,164,50,85,477,1782053,26.77,332,69.6
-2018,West Bengal,Kolkata,139,33,64,591,724240,81.6,392,66.33
-2018,Kerala,Kozhikode,156,26,36,475,1308626,36.3,257,54.11
+2018,West Bengal,Kolkata,139,33,64,591,724240,81.6,392,6.33
+2018,Kerala,Kozhikode,156,26,36,475,1308626,36.3,257,4.11
 2022,Uttarakhand,Haridwar,170,168,84,697,448575,155.38,368,52.8
 2019,Rajasthan,Jaipur,96,158,42,581,1777955,32.68,405,69.71
 2022,Rajasthan,Jodhpur,67,253,66,452,1309017,34.53,321,71.02
@@ -237,10 +237,10 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Nagaland,Kohima,19,44,80,253,1201356,21.06,167,66.01
 2020,Delhi,Central Delhi,66,276,11,641,764990,83.79,617,96.26
 2020,Ladakh,Leh,59,162,99,534,98102,544.33,469,87.83
-2020,Kerala,Kozhikode,139,213,26,729,235686,309.31,426,58.44
+2020,Kerala,Kozhikode,139,213,26,729,235686,309.31,426,8.44
 2022,Goa,Vasco da Gama,148,207,62,505,684893,73.73,417,82.57
-2020,Uttar Pradesh,Lucknow,101,210,95,736,102365,719.0,467,63.45
-2021,Manipur,Thoubal,40,196,77,489,354400,137.98,257,52.56
+2020,Uttar Pradesh,Lucknow,101,210,95,736,102365,719,467,63.45
+2021,Manipur,Thoubal,40,196,77,489,354400,137.98,257,12.56
 2019,Chhattisgarh,Raipur,36,171,93,357,1864667,19.15,179,50.14
 2022,Madhya Pradesh,Bhopal,55,226,42,697,1207415,57.73,615,88.24
 2018,Sikkim,Namchi,188,236,27,749,1824240,41.06,582,77.7
@@ -251,7 +251,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Chhattisgarh,Bilaspur,167,86,19,520,533452,97.48,300,57.69
 2019,Chhattisgarh,Raipur,159,125,64,728,1242413,58.6,658,90.38
 2018,Maharashtra,Mumbai,130,155,28,576,1671081,34.47,517,89.76
-2021,Manipur,Churachandpur,116,232,22,728,1471689,49.47,696,95.6
+2021,Manipur,Churachandpur,116,232,22,728,1471689,49.47,696,15.6
 2020,Madhya Pradesh,Bhopal,11,24,47,228,107955,211.2,189,82.89
 2020,Manipur,Imphal,39,110,33,660,1234367,53.47,398,60.3
 2019,Rajasthan,Udaipur,109,296,27,831,1322482,62.84,422,50.78
@@ -262,9 +262,9 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Andhra Pradesh,Guntur,124,61,74,502,1478962,33.94,300,59.76
 2019,Haryana,Gurugram,195,212,51,583,657077,88.73,398,68.27
 2021,Haryana,Panipat,14,185,22,599,1923650,31.14,357,59.6
-2021,Dadra and Nagar Haveli and Daman and Diu,Daman,198,299,62,987,148870,662.99,752,76.19
+2021,Kerala,Kozhikode,198,299,62,987,148870,662.99,752,76.19
 2018,Jharkhand,Ranchi,150,203,76,874,1071286,81.58,439,50.23
-2021,Kerala,Kochi,164,181,32,689,1272588,54.14,686,99.56
+2021,Kerala,Kochi,164,181,32,689,1272588,54.14,686,59.56
 2018,Bihar,Gaya,145,211,80,607,657412,92.33,362,59.64
 2019,Arunachal Pradesh,Pasighat,146,185,27,704,152168,462.65,532,75.57
 2020,West Bengal,Siliguri,82,125,44,559,1467383,38.1,533,95.35
@@ -282,7 +282,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Chhattisgarh,Raipur,62,96,73,290,1949979,14.87,256,88.28
 2018,Haryana,Panipat,12,34,43,441,1391733,31.69,340,77.1
 2018,Karnataka,Mysuru,110,58,11,283,1176691,24.05,271,95.76
-2021,Nagaland,Mokokchung,63,98,18,239,698221,34.23,239,100.0
+2021,Nagaland,Mokokchung,63,98,18,239,698221,34.23,239,100
 2019,Tamil Nadu,Madurai,57,230,28,785,1632746,48.08,574,73.12
 2020,Lakshadweep,Kavaratti,64,67,64,341,314329,108.49,307,90.03
 2019,Rajasthan,Udaipur,34,74,79,564,334278,168.72,359,63.65
@@ -313,7 +313,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Uttarakhand,Nainital,81,191,96,665,1543808,43.08,651,97.89
 2021,Jharkhand,Dhanbad,118,259,13,654,1181723,55.34,566,86.54
 2022,Telangana,Hyderabad,169,143,60,520,293472,177.19,396,76.15
-2021,Dadra and Nagar Haveli and Daman and Diu,Daman,37,272,82,519,744181,69.74,303,58.38
+2021,Kerala,Daman,37,272,82,519,744181,69.74,303,58.38
 2022,Punjab,Jalandhar,177,157,17,518,1006428,51.47,334,64.48
 2019,Rajasthan,Jaipur,113,209,80,684,762254,89.73,411,60.09
 2018,Puducherry,Karaikal,126,212,54,837,1868451,44.8,808,96.54
@@ -332,9 +332,9 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,West Bengal,Kolkata,197,63,82,817,980676,83.31,574,70.26
 2018,Puducherry,Puducherry,45,72,68,661,1370288,48.24,430,65.05
 2019,Chhattisgarh,Durg,16,278,20,558,55608,1003.45,490,87.81
-2020,Ladakh,Kargil,78,186,65,379,1375951,27.54,379,100.0
+2020,Ladakh,Kargil,78,186,65,379,1375951,27.54,379,100
 2019,Bihar,Gaya,104,168,92,688,777654,88.47,612,88.95
-2021,Dadra and Nagar Haveli and Daman and Diu,Silvassa,139,130,49,462,334098,138.28,403,87.23
+2021,Kolkata,Silvassa,139,130,49,462,334098,138.28,403,17.23
 2022,Jharkhand,Ranchi,53,276,90,733,1594585,45.97,503,68.62
 2021,Lakshadweep,Agatti,98,174,35,503,296485,169.65,495,98.41
 2021,Mizoram,Aizawl,164,108,11,361,361149,99.96,355,98.34
@@ -368,7 +368,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Tripura,Kailashahar,118,117,18,544,225834,240.88,523,96.14
 2018,Haryana,Panipat,53,67,74,450,1014432,44.36,301,66.89
 2020,Arunachal Pradesh,Pasighat,90,72,90,596,107074,556.62,529,88.76
-2018,Lakshadweep,Minicoy,148,73,34,491,438711,111.92,383,78.0
+2018,Lakshadweep,Minicoy,148,73,34,491,438711,111.92,383,78
 2022,Lakshadweep,Agatti,47,56,60,559,1969710,28.38,346,61.9
 2022,Haryana,Gurugram,178,243,82,966,440262,219.41,872,90.27
 2019,Haryana,Faridabad,141,282,49,867,1729536,50.13,833,96.08
@@ -395,7 +395,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Bihar,Gaya,130,124,35,578,1237029,46.72,476,82.35
 2022,Goa,Vasco da Gama,164,269,58,760,488910,155.45,443,58.29
 2022,Chandigarh,Chandigarh,49,43,19,486,1706664,28.48,341,70.16
-2021,Dadra and Nagar Haveli and Daman and Diu,Daman,50,164,98,797,1436019,55.5,466,58.47
+2021,West Bengal,Daman,50,164,98,797,1436019,55.5,466,58.47
 2019,Andhra Pradesh,Vijayawada,148,27,89,503,213876,235.18,488,97.02
 2019,Manipur,Imphal,38,237,32,558,1669027,33.43,505,90.5
 2021,Sikkim,Gangtok,175,163,76,712,1932123,36.85,498,69.94
@@ -417,7 +417,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Gujarat,Vadodara,35,56,7,251,666814,37.64,181,72.11
 2022,Jharkhand,Jamshedpur,116,142,75,694,1886925,36.78,526,75.79
 2022,Manipur,Thoubal,114,118,17,660,1107793,59.58,575,87.12
-2022,Punjab,Jalandhar,171,65,5,531,1966316,27.0,508,95.67
+2022,Punjab,Jalandhar,171,65,5,531,1966316,27,508,95.67
 2022,Madhya Pradesh,Indore,32,267,14,447,492482,90.76,278,62.19
 2020,Jharkhand,Jamshedpur,91,239,64,504,270476,186.34,479,95.04
 2018,Bihar,Patna,107,43,35,267,185123,144.23,239,89.51
@@ -425,7 +425,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Tripura,Kailashahar,151,43,96,409,1111293,36.8,338,82.64
 2022,Mizoram,Lunglei,18,138,73,701,936804,74.83,548,78.17
 2018,Chhattisgarh,Durg,46,154,44,549,409060,134.21,374,68.12
-2020,Dadra and Nagar Haveli and Daman and Diu,Diu,151,175,93,861,490320,175.6,840,97.56
+2020,Daman and Diu,Diu,151,175,93,861,490320,175.6,840,97.56
 2018,Meghalaya,Jowai,161,58,88,587,579073,101.37,468,79.73
 2021,Nagaland,Mokokchung,55,119,54,620,336129,184.45,511,82.42
 2018,Odisha,Bhubaneswar,192,187,51,750,1796367,41.75,494,65.87
@@ -472,13 +472,13 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Goa,Margao,23,43,18,199,1496201,13.3,167,83.92
 2019,Telangana,Nizamabad,178,266,85,779,1737543,44.83,420,53.92
 2022,Delhi,South Delhi,160,97,57,807,555465,145.28,685,84.88
-2018,Manipur,Churachandpur,192,136,33,618,109934,562.16,462,74.76
+2018,Manipur,Churachandpur,192,136,33,618,109934,562.16,462,4.76
 2020,Haryana,Panipat,121,151,88,415,785267,52.85,235,56.63
 2021,Goa,Panaji,128,121,88,664,824130,80.57,565,85.09
 2019,Meghalaya,Shillong,183,207,49,881,1286607,68.47,481,54.6
 2021,Telangana,Warangal,118,28,61,354,1320896,26.8,346,97.74
 2018,Karnataka,Bengaluru,44,227,64,550,138466,397.21,458,83.27
-2020,Uttar Pradesh,Lucknow,11,165,7,438,1930542,22.69,343,78.31
+2020,Uttar Pradesh,Lucknow,11,165,7,438,1930542,22.69,343,8.31
 2018,Karnataka,Mysuru,48,220,40,448,241878,185.22,287,64.06
 2019,Andhra Pradesh,Visakhapatnam,143,292,36,825,795571,103.7,737,89.33
 2021,Assam,Guwahati,82,117,20,557,1491228,37.35,404,72.53
@@ -486,13 +486,13 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Uttar Pradesh,Kanpur,25,144,84,578,1527676,37.84,462,79.93
 2020,Andhra Pradesh,Guntur,142,117,93,746,557042,133.92,459,61.53
 2019,Odisha,Rourkela,64,157,56,693,441426,156.99,550,79.37
-2018,Mizoram,Aizawl,175,177,91,883,840282,105.08,883,100.0
+2018,Mizoram,Aizawl,175,177,91,883,840282,105.08,883,100
 2018,Karnataka,Mysuru,109,105,9,664,1300186,51.07,539,81.17
 2021,Jammu and Kashmir,Srinagar,166,66,70,781,773738,100.94,491,62.87
 2019,Arunachal Pradesh,Itanagar,148,178,53,828,1913358,43.27,718,86.71
 2020,Jharkhand,Dhanbad,49,291,10,818,1419826,57.61,547,66.87
 2021,Telangana,Nizamabad,199,261,49,722,1087985,66.36,715,99.03
-2022,Maharashtra,Pune,137,92,46,592,1216333,48.67,527,89.02
+2022,Maharashtra,Pune,1137,92,46,592,1216333,48.67,527,89.02
 2019,Delhi,South Delhi,181,294,21,821,1767576,46.45,753,91.72
 2022,Telangana,Nizamabad,159,37,38,374,214831,174.09,284,75.94
 2019,Manipur,Thoubal,94,148,100,395,1410449,28.01,389,98.48
@@ -507,7 +507,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Punjab,Jalandhar,132,32,56,448,1150376,38.94,254,56.7
 2018,Punjab,Amritsar,59,229,18,515,451314,114.11,453,87.96
 2022,Goa,Vasco da Gama,117,190,67,743,109776,676.83,397,53.43
-2019,Punjab,Jalandhar,68,53,35,285,280735,101.52,285,100.0
+2019,Punjab,Jalandhar,68,53,35,285,280735,101.52,285,100
 2018,Mizoram,Lunglei,161,243,69,678,510079,132.92,419,61.8
 2019,Bihar,Muzaffarpur,68,200,92,830,1533440,54.13,770,92.77
 2021,Andhra Pradesh,Visakhapatnam,17,196,67,484,202570,238.93,284,58.68
@@ -585,7 +585,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Lakshadweep,Agatti,58,225,18,390,827980,47.1,374,95.9
 2018,Delhi,Central Delhi,142,138,99,688,1844511,37.3,687,99.85
 2022,Ladakh,Kargil,18,256,17,345,882489,39.09,174,50.43
-2019,Jammu and Kashmir,Jammu,113,94,29,352,555523,63.36,176,50.0
+2019,Jammu and Kashmir,Jammu,113,94,29,352,555523,63.36,176,50
 2020,Manipur,Thoubal,131,177,65,655,890955,73.52,558,85.19
 2021,West Bengal,Darjeeling,177,53,63,724,838906,86.3,680,93.92
 2022,Maharashtra,Pune,48,42,85,604,523524,115.37,353,58.44
@@ -603,14 +603,14 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Uttar Pradesh,Lucknow,47,86,5,502,987059,50.86,402,80.08
 2019,West Bengal,Siliguri,191,256,68,837,309535,270.41,453,54.12
 2021,Tamil Nadu,Madurai,124,61,38,521,1988815,26.2,484,92.9
-2019,Rajasthan,Jodhpur,177,229,62,676,242292,279.0,512,75.74
+2019,Rajasthan,Jodhpur,177,229,62,676,242292,279,512,75.74
 2020,Assam,Dibrugarh,137,121,56,656,130448,502.88,587,89.48
-2022,Bihar,Patna,68,251,14,556,1544608,36.0,436,78.42
+2022,Bihar,Patna,68,251,14,556,1544608,36,436,78.42
 2021,Meghalaya,Shillong,149,152,19,495,1436371,34.46,459,92.73
 2021,Meghalaya,Tura,144,106,90,408,1839422,22.18,265,64.95
 2022,Jharkhand,Ranchi,69,66,30,654,795518,82.21,567,86.7
 2020,Odisha,Rourkela,123,239,99,872,280930,310.4,733,84.06
-2021,Himachal Pradesh,Shimla,88,204,82,600,1687721,35.55,480,80.0
+2021,Himachal Pradesh,Shimla,88,204,82,600,1687721,35.55,480,80
 2018,Madhya Pradesh,Bhopal,94,242,100,536,839131,63.88,526,98.13
 2022,Sikkim,Namchi,39,77,20,388,720570,53.85,307,79.12
 2021,Odisha,Bhubaneswar,26,285,7,615,577558,106.48,360,58.54
@@ -709,10 +709,10 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,West Bengal,Darjeeling,121,110,84,391,1560966,25.05,242,61.89
 2020,Arunachal Pradesh,Pasighat,134,152,6,597,1871563,31.9,579,96.98
 2021,West Bengal,Darjeeling,73,169,67,706,1859891,37.96,506,71.67
-2022,Mizoram,Aizawl,126,278,40,924,1620940,57.0,660,71.43
+2022,Mizoram,Aizawl,126,278,40,924,1620940,57,660,71.43
 2020,Lakshadweep,Minicoy,30,154,77,749,841508,89.01,385,51.4
 2022,Uttarakhand,Haridwar,112,290,6,459,1197584,38.33,296,64.49
-2018,Jharkhand,Jamshedpur,200,284,79,770,889430,86.57,693,90.0
+2018,Jharkhand,Jamshedpur,200,284,79,770,889430,86.57,693,90
 2021,Mizoram,Aizawl,72,115,59,374,676834,55.26,230,61.5
 2018,Rajasthan,Jaipur,119,55,66,552,1383914,39.89,401,72.64
 2021,Uttarakhand,Dehradun,87,163,62,721,1213152,59.43,402,55.76
@@ -722,7 +722,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Bihar,Gaya,41,279,16,662,1223701,54.1,407,61.48
 2020,Lakshadweep,Agatti,53,148,64,684,1868575,36.61,532,77.78
 2022,Jammu and Kashmir,Anantnag,74,206,37,752,627982,119.75,449,59.71
-2018,Andhra Pradesh,Visakhapatnam,102,127,22,465,463910,100.23,279,60.0
+2018,Andhra Pradesh,Visakhapatnam,102,127,22,465,463910,100.23,279,60
 2022,Nagaland,Mokokchung,41,120,40,534,590174,90.48,326,61.05
 2019,Jharkhand,Dhanbad,44,184,46,594,309814,191.73,427,71.89
 2022,Tamil Nadu,Coimbatore,111,180,33,421,1691683,24.89,387,91.92
@@ -731,7 +731,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Gujarat,Surat,137,37,45,349,165728,210.59,212,60.74
 2019,Rajasthan,Jaipur,123,156,100,838,451480,185.61,424,50.6
 2019,Telangana,Hyderabad,88,192,25,370,1564806,23.65,350,94.59
-2020,Karnataka,Bengaluru,131,297,19,562,1510023,37.22,399,71.0
+2020,Karnataka,Bengaluru,131,297,19,562,1510023,37.22,399,71
 2020,Puducherry,Mahe,35,163,83,712,203317,350.19,643,90.31
 2020,Assam,Dibrugarh,13,41,96,271,142609,190.03,169,62.36
 2019,Uttarakhand,Haridwar,152,227,75,684,1420464,48.15,535,78.22
@@ -754,7 +754,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Jharkhand,Ranchi,146,120,25,543,1647807,32.95,530,97.61
 2021,Goa,Margao,67,23,100,479,1609326,29.76,329,68.68
 2018,Chhattisgarh,Bilaspur,94,298,6,863,277042,311.51,784,90.85
-2021,Puducherry,Mahe,55,69,96,703,1806664,38.91,464,66.0
+2021,Puducherry,Mahe,55,69,96,703,1806664,38.91,464,66
 2019,Nagaland,Dimapur,78,44,89,456,284449,160.31,419,91.89
 2020,Punjab,Amritsar,106,230,85,653,529854,123.24,597,91.42
 2020,Punjab,Ludhiana,53,175,48,458,1988750,23.03,267,58.3
@@ -772,7 +772,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Haryana,Faridabad,128,266,85,636,1518068,41.9,547,86.01
 2019,Andaman and Nicobar Islands,Port Blair,72,230,23,410,885855,46.28,408,99.51
 2021,Manipur,Churachandpur,46,189,72,495,1825963,27.11,480,96.97
-2020,Kerala,Kochi,197,182,88,913,336488,271.33,888,97.26
+2020,Kerala,Kochi,197,182,88,913,336488,271.33,888,27.26
 2018,Meghalaya,Shillong,123,112,32,694,885262,78.39,408,58.79
 2018,Gujarat,Vadodara,155,127,94,457,742399,61.56,422,92.34
 2018,Bihar,Gaya,39,231,6,377,1908152,19.76,199,52.79
@@ -784,7 +784,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Uttar Pradesh,Lucknow,16,54,99,580,1905694,30.44,519,89.48
 2019,Punjab,Ludhiana,102,190,81,494,532090,92.84,470,95.14
 2021,Karnataka,Bengaluru,17,282,94,636,1170458,54.34,376,59.12
-2020,Tamil Nadu,Coimbatore,76,252,92,530,815435,65.0,314,59.25
+2020,Tamil Nadu,Coimbatore,76,252,92,530,815435,65,314,59.25
 2022,Mizoram,Lunglei,180,255,59,742,230612,321.75,538,72.51
 2020,Karnataka,Bengaluru,178,34,81,443,1397950,31.69,429,96.84
 2019,Goa,Panaji,78,65,25,541,1877020,28.82,304,56.19
@@ -815,7 +815,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Tamil Nadu,Madurai,119,161,94,719,1588771,45.26,525,73.02
 2020,Dadra and Nagar Haveli and Daman and Diu,Daman,188,146,47,556,363668,152.89,352,63.31
 2018,Telangana,Nizamabad,93,253,13,850,1564245,54.34,772,90.82
-2021,Kerala,Kochi,63,98,32,593,1260829,47.03,581,97.98
+2021,Kerala,Kochi,63,98,32,593,1260829,47.03,581,17.98
 2020,Andaman and Nicobar Islands,Port Blair,156,280,95,1012,1808920,55.94,580,57.31
 2018,Rajasthan,Jodhpur,34,142,26,312,1086989,28.7,256,82.05
 2018,Maharashtra,Pune,141,173,91,853,568508,150.04,587,68.82
@@ -876,7 +876,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Jharkhand,Ranchi,68,33,22,315,976145,32.27,168,53.33
 2022,Arunachal Pradesh,Itanagar,129,39,69,293,1013158,28.92,248,84.64
 2020,Uttarakhand,Dehradun,132,257,40,487,298397,163.21,385,79.06
-2020,Jammu and Kashmir,Jammu,158,110,74,401,1670701,24.0,211,52.62
+2020,Jammu and Kashmir,Jammu,158,110,74,401,1670701,24,211,52.62
 2019,Kerala,Thiruvananthapuram,195,282,83,829,1930832,42.93,516,62.24
 2020,Dadra and Nagar Haveli and Daman and Diu,Silvassa,35,24,44,477,773410,61.67,384,80.5
 2020,Manipur,Thoubal,79,163,14,387,1973601,19.61,258,66.67
@@ -916,7 +916,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Chandigarh,Chandigarh,55,214,65,643,521408,123.32,409,63.61
 2018,Sikkim,Gangtok,145,288,35,677,150504,449.82,393,58.05
 2019,West Bengal,Darjeeling,134,191,94,668,149710,446.2,371,55.54
-2019,Ladakh,Kargil,126,233,8,640,1890282,33.86,544,85.0
+2019,Ladakh,Kargil,126,233,8,640,1890282,33.86,544,85
 2022,Manipur,Churachandpur,22,53,67,290,364688,79.52,214,73.79
 2022,Delhi,South Delhi,171,154,62,537,374273,143.48,375,69.83
 2021,Telangana,Nizamabad,131,165,25,811,281110,288.5,578,71.27
@@ -977,12 +977,12 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Maharashtra,Pune,147,202,39,618,251410,245.81,382,61.81
 2018,Haryana,Faridabad,145,131,95,663,804756,82.39,337,50.83
 2020,Lakshadweep,Minicoy,189,296,72,952,1039069,91.62,482,50.63
-2019,Kerala,Kochi,71,241,97,881,976985,90.18,879,99.77
+2019,Kerala,Kochi,71,241,97,881,976985,90.18,879,49.77
 2020,Delhi,South Delhi,135,140,17,764,1869485,40.87,431,56.41
 2022,Bihar,Gaya,197,195,65,901,1680249,53.62,844,93.67
 2020,Punjab,Amritsar,10,95,18,220,1853314,11.87,211,95.91
 2018,Uttar Pradesh,Agra,24,297,90,627,386898,162.06,476,75.92
-2018,Karnataka,Mangaluru,159,117,80,789,1712459,46.07,576,73.0
+2018,Karnataka,Mangaluru,159,117,80,789,1712459,46.07,576,73
 2022,Chhattisgarh,Raipur,106,105,100,406,509205,79.73,217,53.45
 2019,Assam,Silchar,108,46,67,488,1500016,32.53,361,73.98
 2019,Manipur,Imphal,151,198,79,517,559773,92.36,480,92.84
@@ -1033,10 +1033,10 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Arunachal Pradesh,Tawang,129,76,96,387,380188,101.79,378,97.67
 2021,Chhattisgarh,Raipur,157,88,37,614,161087,381.16,310,50.49
 2020,Meghalaya,Tura,106,44,13,340,746542,45.54,279,82.06
-2019,Tripura,Kailashahar,91,51,75,534,1518032,35.18,267,50.0
+2019,Tripura,Kailashahar,91,51,75,534,1518032,35.18,267,50
 2022,Maharashtra,Pune,176,53,17,557,215078,258.98,510,91.56
 2022,Bihar,Muzaffarpur,60,129,79,358,619076,57.83,202,56.42
-2022,Meghalaya,Jowai,31,152,76,721,620687,116.16,721,100.0
+2022,Meghalaya,Jowai,31,152,76,721,620687,116.16,721,100
 2021,Gujarat,Ahmedabad,46,156,93,479,1706045,28.08,426,88.94
 2018,Tripura,Kailashahar,64,290,76,795,1102075,72.14,575,72.33
 2018,Himachal Pradesh,Shimla,157,41,26,539,510493,105.58,533,98.89
@@ -1049,7 +1049,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Manipur,Thoubal,170,199,24,801,305484,262.21,472,58.93
 2021,Andaman and Nicobar Islands,Car Nicobar,54,176,14,481,1502276,32.02,278,57.8
 2019,Bihar,Patna,74,87,53,456,218124,209.06,433,94.96
-2021,Himachal Pradesh,Kangra,85,83,5,477,361358,132.0,310,64.99
+2021,Himachal Pradesh,Kangra,85,83,5,477,361358,132,310,64.99
 2022,Andhra Pradesh,Vijayawada,58,169,5,699,1536887,45.48,370,52.93
 2020,Karnataka,Mangaluru,122,23,38,521,1857404,28.05,342,65.64
 2022,Lakshadweep,Agatti,18,109,93,281,1458690,19.26,250,88.97
@@ -1066,9 +1066,9 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Lakshadweep,Agatti,51,73,67,660,1763574,37.42,475,71.97
 2019,Dadra and Nagar Haveli and Daman and Diu,Silvassa,77,253,5,441,1675482,26.32,231,52.38
 2022,Odisha,Cuttack,106,257,51,767,212115,361.6,402,52.41
-2019,Bihar,Muzaffarpur,103,179,61,448,772454,58.0,271,60.49
+2019,Bihar,Muzaffarpur,103,179,61,448,772454,58,271,60.49
 2022,Goa,Panaji,65,31,41,552,1809277,30.51,332,60.14
-2019,Kerala,Kozhikode,143,204,60,674,1744344,38.64,611,90.65
+2019,Kerala,Kozhikode,143,204,60,674,1744344,38.64,611,70.65
 2022,Mizoram,Champhai,108,76,25,559,636719,87.79,521,93.2
 2020,Tripura,Kailashahar,115,88,93,602,272133,221.22,519,86.21
 2018,Haryana,Faridabad,80,21,27,584,300928,194.07,334,57.19
@@ -1131,7 +1131,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Assam,Silchar,59,293,20,725,588938,123.1,460,63.45
 2022,Meghalaya,Tura,124,166,21,391,1238505,31.57,340,86.96
 2022,Arunachal Pradesh,Itanagar,11,61,61,471,757402,62.19,461,97.88
-2021,Kerala,Kozhikode,92,37,29,638,1122484,56.84,621,97.34
+2021,Kerala,Kozhikode,92,37,29,638,1122484,56.84,621,57.34
 2021,Bihar,Patna,20,27,66,593,995980,59.54,461,77.74
 2021,Gujarat,Surat,158,257,8,754,1906923,39.54,620,82.23
 2018,Rajasthan,Udaipur,33,34,15,147,1129221,13.02,117,79.59
@@ -1153,7 +1153,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Mizoram,Aizawl,198,206,20,686,755365,90.82,356,51.9
 2022,West Bengal,Siliguri,106,275,97,646,1286217,50.22,324,50.15
 2019,Odisha,Bhubaneswar,23,282,36,468,660318,70.87,274,58.55
-2020,Kerala,Kochi,104,197,53,735,309382,237.57,683,92.93
+2020,Kerala,Kochi,104,197,53,735,309382,237.57,683,52.93
 2022,Gujarat,Vadodara,108,280,49,531,682286,77.83,393,74.01
 2018,Lakshadweep,Agatti,70,20,46,233,373768,62.34,193,82.83
 2022,Tripura,Udaipur,41,165,14,349,1971851,17.7,222,63.61
@@ -1173,7 +1173,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Mizoram,Aizawl,135,192,91,591,108073,546.85,382,64.64
 2018,Uttarakhand,Haridwar,162,78,50,500,849874,58.83,486,97.2
 2019,Andhra Pradesh,Visakhapatnam,68,198,33,524,1352057,38.76,306,58.4
-2020,Ladakh,Leh,123,221,83,660,772765,85.41,594,90.0
+2020,Ladakh,Leh,123,221,83,660,772765,85.41,594,90
 2019,Sikkim,Gyalshing,185,34,81,441,292115,150.97,342,77.55
 2021,Kerala,Thiruvananthapuram,188,82,77,611,741197,82.43,388,63.5
 2022,Madhya Pradesh,Indore,108,267,56,799,1451211,55.06,404,50.56
@@ -1195,15 +1195,15 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Goa,Panaji,81,96,28,350,1940378,18.04,282,80.57
 2022,Jammu and Kashmir,Anantnag,134,188,35,627,1879158,33.37,442,70.49
 2020,Himachal Pradesh,Shimla,195,168,87,945,1789478,52.81,802,84.87
-2019,Kerala,Thiruvananthapuram,186,165,53,761,839770,90.62,746,98.03
+2019,Kerala,Thiruvananthapuram,186,165,53,761,839770,90.62,746,48.03
 2022,Meghalaya,Tura,84,234,25,542,1883385,28.78,361,66.61
 2021,Rajasthan,Jodhpur,99,203,41,439,1675078,26.21,231,52.62
 2022,Rajasthan,Jodhpur,139,114,45,400,896680,44.61,339,84.75
-2021,Punjab,Ludhiana,134,106,38,350,1494785,23.41,196,56.0
+2021,Punjab,Ludhiana,134,106,38,350,1494785,23.41,196,56
 2018,Maharashtra,Pune,128,298,73,718,315161,227.82,537,74.79
 2020,West Bengal,Siliguri,15,224,98,752,901735,83.39,384,51.06
 2022,Jharkhand,Jamshedpur,44,205,95,646,1458702,44.29,623,96.44
-2022,Uttar Pradesh,Kanpur,150,147,61,640,1328917,48.16,544,85.0
+2022,Uttar Pradesh,Kanpur,150,147,61,640,1328917,48.16,544,85
 2022,Uttar Pradesh,Agra,90,188,37,471,616637,76.38,262,55.63
 2019,Karnataka,Mangaluru,176,30,57,750,971704,77.18,483,64.4
 2022,Goa,Panaji,102,285,50,795,584617,135.99,438,55.09
@@ -1215,7 +1215,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Dadra and Nagar Haveli and Daman and Diu,Daman,138,134,68,556,860958,64.58,309,55.58
 2022,Dadra and Nagar Haveli and Daman and Diu,Daman,31,146,92,363,576744,62.94,217,59.78
 2022,Nagaland,Dimapur,148,282,94,977,928152,105.26,839,85.88
-2018,Uttar Pradesh,Agra,183,92,69,794,508982,156.0,700,88.16
+2018,Uttar Pradesh,Agra,183,92,69,794,508982,156,700,88.16
 2021,Tripura,Udaipur,44,263,48,743,927440,80.11,652,87.75
 2021,Madhya Pradesh,Indore,176,133,64,822,1184973,69.37,582,70.8
 2018,Himachal Pradesh,Shimla,96,36,27,332,1546774,21.46,252,75.9
@@ -1254,7 +1254,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Jammu and Kashmir,Srinagar,67,120,17,429,1303479,32.91,305,71.1
 2018,Dadra and Nagar Haveli and Daman and Diu,Silvassa,186,198,92,627,1474013,42.54,323,51.52
 2019,Andhra Pradesh,Vijayawada,137,258,49,730,303627,240.43,543,74.38
-2018,Gujarat,Ahmedabad,17,222,25,699,1068966,65.39,678,97.0
+2018,Gujarat,Ahmedabad,17,222,25,699,1068966,65.39,678,97
 2022,Tripura,Kailashahar,17,73,89,422,1539987,27.4,228,54.03
 2019,Puducherry,Karaikal,75,293,20,595,1840090,32.34,435,73.11
 2022,Andaman and Nicobar Islands,Car Nicobar,87,109,86,495,1156092,42.82,321,64.85
@@ -1304,11 +1304,11 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Ladakh,Leh,192,96,60,520,1148485,45.28,437,84.04
 2018,Andhra Pradesh,Vijayawada,166,75,23,405,1625502,24.92,302,74.57
 2018,Arunachal Pradesh,Itanagar,153,291,70,1012,1997578,50.66,937,92.59
-2022,Uttarakhand,Nainital,169,265,94,741,974961,76.0,610,82.32
+2022,Uttarakhand,Nainital,169,265,94,741,974961,76,610,82.32
 2019,Rajasthan,Udaipur,92,107,12,360,1967807,18.29,247,68.61
 2021,Lakshadweep,Kavaratti,124,75,24,401,579198,69.23,334,83.29
 2022,Chhattisgarh,Durg,13,143,22,314,1190225,26.38,267,85.03
-2019,Andaman and Nicobar Islands,Diglipur,134,89,68,510,671048,76.0,359,70.39
+2019,Andaman and Nicobar Islands,Diglipur,134,89,68,510,671048,76,359,70.39
 2022,Bihar,Patna,90,40,51,479,1329901,36.02,337,70.35
 2018,Andaman and Nicobar Islands,Port Blair,144,203,47,816,1831235,44.56,532,65.2
 2018,Maharashtra,Mumbai,19,137,42,491,1386733,35.41,287,58.45
@@ -1437,8 +1437,8 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Tripura,Udaipur,167,55,62,586,350775,167.06,514,87.71
 2018,Lakshadweep,Minicoy,197,239,61,967,1767562,54.71,611,63.19
 2018,Delhi,New Delhi,26,225,63,580,1313678,44.15,418,72.07
-2022,Bihar,Patna,192,136,43,690,969295,71.19,345,50.0
-2019,Arunachal Pradesh,Pasighat,91,147,45,774,1488595,52.0,515,66.54
+2022,Bihar,Patna,192,136,43,690,969295,71.19,345,50
+2019,Arunachal Pradesh,Pasighat,91,147,45,774,1488595,52,515,66.54
 2020,Dadra and Nagar Haveli and Daman and Diu,Silvassa,71,99,10,476,856495,55.58,453,95.17
 2021,Telangana,Nizamabad,120,46,60,321,1368918,23.45,264,82.24
 2020,Goa,Vasco da Gama,77,75,85,341,260837,130.73,333,97.65
@@ -1447,7 +1447,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Maharashtra,Nagpur,193,34,53,701,1994608,35.14,379,54.07
 2018,Goa,Vasco da Gama,163,239,81,832,1128793,73.71,737,88.58
 2020,Maharashtra,Pune,57,224,20,617,764985,80.66,544,88.17
-2018,Andhra Pradesh,Vijayawada,73,137,39,455,1679845,27.09,364,80.0
+2018,Andhra Pradesh,Vijayawada,73,137,39,455,1679845,27.09,364,80
 2020,Meghalaya,Tura,22,152,65,386,69804,552.98,305,79.02
 2022,Tamil Nadu,Madurai,45,221,14,474,1037035,45.71,416,87.76
 2022,Mizoram,Champhai,40,246,69,663,62237,1065.28,382,57.62
@@ -1478,7 +1478,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,West Bengal,Darjeeling,191,112,93,492,1972240,24.95,393,79.88
 2019,Andaman and Nicobar Islands,Car Nicobar,175,300,34,952,1948023,48.87,851,89.39
 2019,Tripura,Kailashahar,91,97,9,281,1552542,18.1,280,99.64
-2021,Lakshadweep,Agatti,172,242,21,572,104460,547.58,572,100.0
+2021,Lakshadweep,Agatti,172,242,21,572,104460,547.58,572,100
 2020,Uttar Pradesh,Lucknow,127,40,87,537,421218,127.49,459,85.47
 2019,Meghalaya,Jowai,26,21,70,392,446277,87.84,242,61.73
 2022,Jammu and Kashmir,Jammu,81,53,28,642,377815,169.92,439,68.38
@@ -1490,7 +1490,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Andhra Pradesh,Visakhapatnam,45,242,70,665,229450,289.82,561,84.36
 2021,Uttarakhand,Haridwar,107,64,12,256,348781,73.4,143,55.86
 2022,Tripura,Kailashahar,10,78,51,499,345029,144.63,413,82.77
-2019,Uttar Pradesh,Agra,167,118,21,362,212354,170.47,202,55.8
+2019,Uttar Pradesh,Agra,167,118,21,362,212354,170.47,1202,55.8
 2018,Karnataka,Bengaluru,15,152,81,364,1131623,32.17,215,59.07
 2022,Puducherry,Puducherry,72,106,44,657,387181,169.69,649,98.78
 2018,Gujarat,Surat,83,24,82,516,1231618,41.9,317,61.43
@@ -1514,7 +1514,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Haryana,Faridabad,182,256,86,646,1005571,64.24,387,59.91
 2020,Maharashtra,Pune,161,264,98,775,1202132,64.47,547,70.58
 2021,Meghalaya,Jowai,56,279,49,803,223559,359.19,490,61.02
-2022,Puducherry,Karaikal,136,38,12,440,102980,427.27,352,80.0
+2022,Puducherry,Karaikal,136,38,12,440,102980,427.27,352,80
 2021,Arunachal Pradesh,Pasighat,51,44,44,545,1603381,33.99,330,60.55
 2021,Dadra and Nagar Haveli and Daman and Diu,Daman,199,142,41,679,270705,250.83,633,93.23
 2019,Telangana,Nizamabad,84,106,50,412,1164867,35.37,370,89.81
@@ -1617,7 +1617,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Chhattisgarh,Bilaspur,190,35,18,303,1098204,27.59,183,60.4
 2018,Dadra and Nagar Haveli and Daman and Diu,Diu,110,60,85,738,1094957,67.4,582,78.86
 2020,Karnataka,Mysuru,76,106,100,544,1313897,41.4,456,83.82
-2019,Uttarakhand,Nainital,42,126,32,680,1268428,53.61,442,65.0
+2019,Uttarakhand,Nainital,42,126,32,680,1268428,53.61,442,65
 2022,Chhattisgarh,Bilaspur,53,173,28,515,1845737,27.9,474,92.04
 2018,Telangana,Nizamabad,139,172,31,660,229610,287.44,461,69.85
 2022,Kerala,Kozhikode,12,188,63,601,660748,90.96,413,68.72
@@ -1626,7 +1626,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Meghalaya,Shillong,137,225,70,755,251759,299.89,426,56.42
 2019,Tripura,Udaipur,152,298,23,727,585157,124.24,451,62.04
 2019,Chhattisgarh,Durg,75,72,90,716,376297,190.28,456,63.69
-2021,Chhattisgarh,Raipur,31,205,74,772,500161,154.35,772,100.0
+2021,Chhattisgarh,Raipur,31,205,74,772,500161,154.35,772,100
 2022,Maharashtra,Pune,16,61,86,503,1601551,31.41,447,88.87
 2018,Ladakh,Leh,104,56,73,577,1977790,29.17,414,71.75
 2021,Andaman and Nicobar Islands,Diglipur,105,80,81,615,1103434,55.74,490,79.67
@@ -1676,7 +1676,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Puducherry,Puducherry,16,21,16,376,1570334,23.94,218,57.98
 2020,Maharashtra,Pune,171,287,43,814,975796,83.42,499,61.3
 2020,Ladakh,Leh,73,229,43,721,1419365,50.8,713,98.89
-2021,Puducherry,Mahe,140,23,45,686,665989,103.0,591,86.15
+2021,Puducherry,Mahe,140,23,45,686,665989,103,591,86.15
 2019,Dadra and Nagar Haveli and Daman and Diu,Diu,169,270,31,967,752018,128.59,694,71.77
 2019,Andaman and Nicobar Islands,Diglipur,140,210,60,799,247472,322.86,529,66.21
 2020,Puducherry,Mahe,107,237,87,813,89177,911.67,440,54.12
@@ -1711,7 +1711,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Puducherry,Karaikal,160,266,49,665,130864,508.16,425,63.91
 2019,Uttarakhand,Nainital,23,108,96,554,812856,68.15,541,97.65
 2021,Bihar,Gaya,141,243,9,858,978497,87.69,826,96.27
-2021,Puducherry,Mahe,152,300,91,1043,1848496,56.42,1019,97.7
+2021,Puducherry,Mahe,152,300,91,1043,1848496,56.42,19,97.7
 2018,Tripura,Udaipur,74,234,50,705,893558,78.9,635,90.07
 2020,Karnataka,Bengaluru,186,280,96,959,273438,350.72,737,76.85
 2022,Mizoram,Aizawl,163,189,13,835,943917,88.46,465,55.69
@@ -1742,7 +1742,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Gujarat,Surat,136,257,70,586,959098,61.1,370,63.14
 2020,Arunachal Pradesh,Pasighat,158,148,100,694,1769240,39.23,405,58.36
 2020,Rajasthan,Udaipur,158,273,92,822,1932617,42.53,630,76.64
-2021,Maharashtra,Mumbai,36,120,24,275,1883957,14.6,143,52.0
+2021,Maharashtra,Mumbai,36,120,24,275,1883957,14.6,143,52
 2018,Andhra Pradesh,Visakhapatnam,145,182,89,683,963121,70.92,525,76.87
 2021,Gujarat,Vadodara,149,150,6,684,1624641,42.1,623,91.08
 2018,Punjab,Jalandhar,146,246,65,848,807937,104.96,440,51.89
@@ -1755,7 +1755,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Odisha,Cuttack,146,152,50,581,1767018,32.88,325,55.94
 2021,Haryana,Faridabad,47,299,46,656,97579,672.28,636,96.95
 2018,Tripura,Kailashahar,27,38,17,206,1905690,10.81,177,85.92
-2021,Kerala,Kochi,69,88,54,291,879034,33.1,265,91.07
+2021,Kerala,Kochi,69,88,54,291,879034,33.1,265,81.07
 2022,Tamil Nadu,Madurai,91,120,56,616,1331383,46.27,527,85.55
 2019,Arunachal Pradesh,Pasighat,123,160,61,639,181442,352.18,503,78.72
 2018,Punjab,Amritsar,107,176,22,572,674155,84.85,530,92.66
@@ -1767,7 +1767,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Jammu and Kashmir,Srinagar,137,144,26,375,101976,367.73,288,76.8
 2019,Gujarat,Ahmedabad,19,22,10,379,300146,126.27,247,65.17
 2021,Haryana,Gurugram,15,22,31,189,558934,33.81,138,73.02
-2020,Punjab,Ludhiana,168,242,63,550,575101,95.64,308,56.0
+2020,Punjab,Ludhiana,168,242,63,550,575101,95.64,308,56
 2021,Kerala,Kochi,13,26,38,139,429471,32.37,89,64.03
 2021,Tamil Nadu,Chennai,23,201,20,363,1439185,25.22,189,52.07
 2018,Nagaland,Mokokchung,181,282,79,786,1501377,52.35,626,79.64
@@ -1776,7 +1776,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Dadra and Nagar Haveli and Daman and Diu,Daman,10,133,48,475,170225,279.04,447,94.11
 2020,Chhattisgarh,Bilaspur,46,232,61,606,1836895,32.99,341,56.27
 2022,Manipur,Thoubal,172,230,88,660,108525,608.15,547,82.88
-2019,Uttar Pradesh,Kanpur,14,103,58,650,816822,79.58,524,80.62
+2019,Uttar Pradesh,Kanpur,14,103,58,650,816822,79.58,1524,80.62
 2021,Puducherry,Karaikal,60,295,12,628,1940504,32.36,369,58.76
 2018,Rajasthan,Jodhpur,136,291,6,731,428914,170.43,468,64.02
 2022,Telangana,Warangal,150,276,62,754,229062,329.17,591,78.38
@@ -1831,7 +1831,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Jammu and Kashmir,Jammu,182,72,22,573,1028150,55.73,553,96.51
 2018,Rajasthan,Jodhpur,200,215,100,966,1129128,85.55,932,96.48
 2022,Madhya Pradesh,Indore,162,192,26,730,821744,88.84,451,61.78
-2020,Lakshadweep,Kavaratti,125,207,15,482,401682,120.0,253,52.49
+2020,Lakshadweep,Kavaratti,125,207,15,482,401682,120,253,52.49
 2022,Sikkim,Gyalshing,165,147,27,657,838050,78.4,389,59.21
 2018,West Bengal,Darjeeling,119,52,100,655,220278,297.35,389,59.39
 2021,Assam,Guwahati,84,32,82,649,1034841,62.71,415,63.94
@@ -1848,7 +1848,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Odisha,Cuttack,152,214,84,879,1121006,78.41,812,92.38
 2021,Gujarat,Surat,143,23,89,557,1526069,36.5,342,61.4
 2021,Gujarat,Vadodara,18,186,100,548,558702,98.08,474,86.5
-2019,Madhya Pradesh,Bhopal,53,29,64,205,1827005,11.22,119,58.05
+2019,Madhya Pradesh,Bhopal,53,29,64,205,1827005,11.22,1119,58.05
 2020,Jammu and Kashmir,Srinagar,162,179,8,476,665432,71.53,317,66.6
 2020,Sikkim,Namchi,147,162,87,490,699596,70.04,302,61.63
 2018,Lakshadweep,Agatti,61,87,76,599,671910,89.15,357,59.6
@@ -1885,7 +1885,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Himachal Pradesh,Kangra,161,90,48,634,1737901,36.48,350,55.21
 2021,Andhra Pradesh,Guntur,124,297,88,876,598601,146.34,785,89.61
 2019,Maharashtra,Pune,152,104,55,558,760304,73.39,420,75.27
-2019,Manipur,Thoubal,82,56,87,713,1516931,47.0,629,88.22
+2019,Manipur,Thoubal,82,56,87,713,1516931,47,629,88.22
 2019,Kerala,Kochi,75,219,79,802,1397502,57.39,433,53.99
 2022,Gujarat,Surat,63,267,47,510,1066511,47.82,340,66.67
 2019,Madhya Pradesh,Indore,165,214,68,634,95584,663.29,599,94.48
@@ -1908,7 +1908,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Nagaland,Mokokchung,52,255,61,459,1276546,35.96,303,66.01
 2021,Dadra and Nagar Haveli and Daman and Diu,Diu,145,255,82,639,1158651,55.15,587,91.86
 2022,Tripura,Agartala,11,177,21,581,488394,118.96,292,50.26
-2018,Odisha,Rourkela,168,231,31,554,1730850,32.01,277,50.0
+2018,Odisha,Rourkela,168,231,31,554,1730850,32.01,277,50
 2018,Jammu and Kashmir,Anantnag,111,64,94,663,803474,82.52,470,70.89
 2019,Andhra Pradesh,Vijayawada,173,166,31,854,1938691,44.05,614,71.9
 2021,Puducherry,Karaikal,69,21,66,591,1526869,38.71,494,83.59
@@ -1994,21 +1994,21 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Rajasthan,Jaipur,79,69,22,355,1836189,19.33,241,67.89
 2020,Jharkhand,Jamshedpur,89,166,7,361,1521247,23.73,303,83.93
 2019,Sikkim,Namchi,147,261,55,547,440236,124.25,287,52.47
-2022,Uttar Pradesh,Lucknow,72,53,97,559,886026,63.09,318,56.89
+2022,Uttar Pradesh,Lucknow,72,53,97,559,886026,63.09,1318,56.89
 2019,Karnataka,Mangaluru,82,24,58,648,1561615,41.5,577,89.04
 2022,Meghalaya,Shillong,200,189,96,599,71128,842.14,500,83.47
 2018,Uttarakhand,Nainital,178,191,8,553,106759,517.99,520,94.03
 2022,Mizoram,Aizawl,81,286,13,609,1039927,58.56,436,71.59
 2019,Rajasthan,Jodhpur,141,236,69,590,345946,170.55,486,82.37
 2019,Chhattisgarh,Raipur,129,26,55,280,1823505,15.36,225,80.36
-2022,Manipur,Imphal,182,113,79,689,1355290,50.84,689,100.0
+2022,Manipur,Imphal,182,113,79,689,1355290,50.84,689,100
 2019,Dadra and Nagar Haveli and Daman and Diu,Daman,32,29,62,583,1737329,33.56,398,68.27
 2022,Dadra and Nagar Haveli and Daman and Diu,Daman,10,122,63,496,1267855,39.12,455,91.73
 2019,Andaman and Nicobar Islands,Car Nicobar,42,21,28,579,453371,127.71,337,58.2
 2022,Delhi,New Delhi,188,299,97,965,1343642,71.82,647,67.05
 2018,Odisha,Rourkela,191,263,58,848,1130196,75.03,750,88.44
 2021,Punjab,Jalandhar,142,249,63,932,281079,331.58,822,88.2
-2019,Arunachal Pradesh,Pasighat,55,118,53,480,941143,51.0,369,76.88
+2019,Arunachal Pradesh,Pasighat,55,118,53,480,941143,51,369,76.88
 2019,Nagaland,Dimapur,124,108,29,496,411226,120.61,410,82.66
 2019,Rajasthan,Udaipur,99,138,62,479,262810,182.26,447,93.32
 2022,Kerala,Kochi,136,190,30,715,214298,333.65,422,59.02
@@ -2046,7 +2046,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Himachal Pradesh,Mandi,139,90,26,724,149951,482.82,656,90.61
 2018,Uttarakhand,Nainital,197,38,24,323,823940,39.2,188,58.2
 2019,Karnataka,Mysuru,155,216,90,910,1507170,60.38,682,74.95
-2019,Mizoram,Lunglei,94,36,34,238,716099,33.24,119,50.0
+2019,Mizoram,Lunglei,94,36,34,238,716099,33.24,119,50
 2021,Bihar,Patna,103,294,76,953,1676105,56.86,742,77.86
 2020,Haryana,Gurugram,13,128,49,604,1194335,50.57,373,61.75
 2020,Punjab,Ludhiana,180,50,78,616,310225,198.57,543,88.15
@@ -2061,7 +2061,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Lakshadweep,Agatti,69,84,43,533,710888,74.98,403,75.61
 2018,Mizoram,Aizawl,23,31,37,238,63427,375.23,204,85.71
 2019,Tripura,Udaipur,24,95,66,522,680250,76.74,391,74.9
-2018,Chhattisgarh,Raipur,35,268,64,785,916104,85.69,628,80.0
+2018,Chhattisgarh,Raipur,35,268,64,785,916104,85.69,628,80
 2018,Lakshadweep,Kavaratti,163,183,45,856,790736,108.25,720,84.11
 2018,Lakshadweep,Agatti,132,203,61,849,173552,489.19,841,99.06
 2018,Bihar,Patna,97,77,94,416,1178070,35.31,278,66.83
@@ -2118,7 +2118,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Meghalaya,Shillong,12,78,80,478,501695,95.28,299,62.55
 2021,Gujarat,Ahmedabad,117,96,14,512,1168937,43.8,338,66.02
 2019,Odisha,Rourkela,111,114,31,518,428549,120.87,380,73.36
-2020,Puducherry,Mahe,157,186,70,540,446602,120.91,540,100.0
+2020,Puducherry,Mahe,157,186,70,540,446602,120.91,540,100
 2022,Puducherry,Karaikal,81,178,23,703,1896113,37.08,478,67.99
 2019,Kerala,Thiruvananthapuram,164,94,42,395,1094844,36.08,345,87.34
 2018,Jharkhand,Ranchi,75,59,15,366,1072135,34.14,267,72.95
@@ -2206,7 +2206,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Uttarakhand,Dehradun,97,104,60,641,548553,116.85,482,75.2
 2020,Karnataka,Bengaluru,166,278,14,714,60953,1171.39,479,67.09
 2020,Andaman and Nicobar Islands,Port Blair,97,196,5,788,1741737,45.24,785,99.62
-2020,Lakshadweep,Kavaratti,98,166,75,777,1942553,40.0,589,75.8
+2020,Lakshadweep,Kavaratti,98,166,75,777,1942553,40,589,75.8
 2018,Dadra and Nagar Haveli and Daman and Diu,Daman,199,152,82,844,809645,104.24,730,86.49
 2018,Goa,Panaji,29,252,13,502,983235,51.06,375,74.7
 2018,Tamil Nadu,Madurai,82,60,43,524,471073,111.24,443,84.54
@@ -2225,7 +2225,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Gujarat,Surat,64,245,12,821,527388,155.67,755,91.96
 2018,Odisha,Cuttack,127,120,72,658,1671583,39.36,473,71.88
 2019,Goa,Vasco da Gama,55,149,24,395,126384,312.54,361,91.39
-2019,Uttar Pradesh,Agra,118,299,97,585,1977805,29.58,585,100.0
+2019,Uttar Pradesh,Agra,118,299,97,585,1977805,29.58,585,100
 2019,Haryana,Faridabad,175,124,48,510,1217817,41.88,429,84.12
 2020,West Bengal,Kolkata,95,124,72,515,1502172,34.28,357,69.32
 2022,Chhattisgarh,Raipur,39,20,8,465,222782,208.72,390,83.87
@@ -2298,12 +2298,12 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Delhi,South Delhi,187,31,47,600,149881,400.32,573,95.5
 2022,Dadra and Nagar Haveli and Daman and Diu,Diu,170,164,87,834,1407699,59.25,600,71.94
 2019,Goa,Vasco da Gama,75,213,73,744,804990,92.42,715,96.1
-2021,Himachal Pradesh,Mandi,132,235,87,867,1576288,55.0,749,86.39
+2021,Himachal Pradesh,Mandi,132,235,87,867,1576288,55,749,86.39
 2020,Tamil Nadu,Madurai,135,123,88,552,1072631,51.46,468,84.78
 2018,Punjab,Ludhiana,113,50,70,544,929155,58.55,423,77.76
 2018,Rajasthan,Jaipur,169,288,9,550,1199956,45.84,435,79.09
 2019,Haryana,Faridabad,113,256,84,528,1674709,31.53,411,77.84
-2020,Tamil Nadu,Madurai,84,36,62,325,1350811,24.06,299,92.0
+2020,Tamil Nadu,Madurai,84,36,62,325,1350811,24.06,299,92
 2019,Himachal Pradesh,Kangra,15,258,39,386,1108451,34.82,206,53.37
 2021,Himachal Pradesh,Shimla,20,224,81,464,484309,95.81,316,68.1
 2018,Kerala,Thiruvananthapuram,144,139,26,485,1468902,33.02,410,84.54
@@ -2333,7 +2333,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Andhra Pradesh,Vijayawada,97,45,22,374,1633877,22.89,200,53.48
 2018,Karnataka,Bengaluru,102,67,45,683,511564,133.51,487,71.3
 2022,Mizoram,Aizawl,21,59,40,273,1982011,13.77,237,86.81
-2020,Jharkhand,Ranchi,89,297,43,511,1965640,26.0,346,67.71
+2020,Jharkhand,Ranchi,89,297,43,511,1965640,26,346,67.71
 2022,Nagaland,Mokokchung,37,23,50,580,1013978,57.2,471,81.21
 2020,Jharkhand,Ranchi,169,25,46,454,1366598,33.22,407,89.65
 2018,Goa,Margao,74,278,26,441,468175,94.2,336,76.19
@@ -2341,7 +2341,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Rajasthan,Udaipur,111,22,86,454,1656458,27.41,414,91.19
 2018,Haryana,Gurugram,34,53,100,489,391695,124.84,441,90.18
 2019,Mizoram,Lunglei,25,185,14,422,1380519,30.57,386,91.47
-2021,Kerala,Kozhikode,112,253,8,424,1800176,23.55,424,100.0
+2021,Kerala,Kozhikode,112,253,8,424,1800176,23.55,424,54.9
 2020,Haryana,Faridabad,25,181,69,504,1162835,43.34,281,55.75
 2019,Puducherry,Karaikal,29,108,5,307,1226457,25.03,295,96.09
 2019,Meghalaya,Tura,130,209,90,528,840580,62.81,461,87.31
@@ -2415,12 +2415,12 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Sikkim,Gyalshing,142,69,39,629,880690,71.42,347,55.17
 2018,Jammu and Kashmir,Anantnag,176,216,43,568,1441108,39.41,565,99.47
 2022,Mizoram,Lunglei,61,156,74,448,569662,78.64,315,70.31
-2022,Gujarat,Ahmedabad,95,68,61,320,1387423,23.06,272,85.0
+2022,Gujarat,Ahmedabad,95,68,61,320,1387423,23.06,272,85
 2018,Kerala,Kochi,14,121,43,670,629014,106.52,545,81.34
 2020,Kerala,Kochi,150,52,78,693,1848124,37.5,677,97.69
 2020,Uttarakhand,Dehradun,122,298,38,792,467005,169.59,619,78.16
 2021,Himachal Pradesh,Mandi,121,129,18,759,98728,768.78,672,88.54
-2022,Assam,Dibrugarh,121,106,32,550,1867479,29.45,440,80.0
+2022,Assam,Dibrugarh,121,106,32,550,1867479,29.45,440,80
 2019,Jharkhand,Dhanbad,37,189,91,495,1796402,27.56,305,61.62
 2022,Puducherry,Karaikal,138,231,71,764,454432,168.12,698,91.36
 2022,Lakshadweep,Minicoy,80,58,23,319,466557,68.37,215,67.4
@@ -2453,7 +2453,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Meghalaya,Tura,119,202,14,478,81460,586.79,389,81.38
 2022,Jharkhand,Jamshedpur,63,184,44,646,1997838,32.33,462,71.52
 2022,Tamil Nadu,Madurai,23,40,87,591,868008,68.09,411,69.54
-2020,Lakshadweep,Agatti,24,253,69,466,1137578,40.96,452,97.0
+2020,Lakshadweep,Agatti,24,253,69,466,1137578,40.96,452,97
 2021,Manipur,Churachandpur,127,67,40,691,1749417,39.5,645,93.34
 2020,Gujarat,Vadodara,32,274,90,767,308931,248.28,437,56.98
 2018,Assam,Guwahati,86,122,65,644,1828360,35.22,589,91.46
@@ -2487,7 +2487,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Andhra Pradesh,Visakhapatnam,47,213,85,745,1678750,44.38,536,71.95
 2018,Chhattisgarh,Bilaspur,189,104,89,713,1405636,50.72,483,67.74
 2020,Tamil Nadu,Chennai,105,110,55,598,1084204,55.16,492,82.27
-2021,Karnataka,Mysuru,14,39,33,328,889943,36.86,164,50.0
+2021,Karnataka,Mysuru,14,39,33,328,889943,36.86,164,50
 2019,Tamil Nadu,Chennai,191,31,82,776,1617463,47.98,669,86.21
 2018,Himachal Pradesh,Kangra,68,160,45,597,620420,96.23,415,69.51
 2019,Meghalaya,Shillong,110,238,64,835,1527779,54.65,430,51.5
@@ -2499,11 +2499,11 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Andhra Pradesh,Guntur,57,297,63,515,1244652,41.38,369,71.65
 2018,Telangana,Hyderabad,196,252,100,970,656398,147.78,965,99.48
 2018,Punjab,Jalandhar,90,158,29,455,1914165,23.77,451,99.12
-2020,Arunachal Pradesh,Itanagar,119,289,7,590,1594503,37.0,569,96.44
+2020,Arunachal Pradesh,Itanagar,119,289,7,590,1594503,37,569,96.44
 2021,Punjab,Jalandhar,12,108,23,256,763787,33.52,221,86.33
 2022,Nagaland,Mokokchung,162,93,68,593,1459792,40.62,584,98.48
 2018,Puducherry,Puducherry,82,214,82,734,1185055,61.94,554,75.48
-2021,Jharkhand,Ranchi,30,21,36,145,295340,49.1,145,100.0
+2021,Jharkhand,Ranchi,30,21,36,145,295340,49.1,145,100
 2018,Punjab,Ludhiana,171,287,71,746,632835,117.88,512,68.63
 2019,Andhra Pradesh,Guntur,153,171,76,847,1057704,80.08,776,91.62
 2018,Uttar Pradesh,Agra,149,49,95,588,1835760,32.03,418,71.09
@@ -2537,11 +2537,11 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Bihar,Patna,26,75,40,607,928862,65.35,587,96.71
 2022,Maharashtra,Nagpur,167,223,83,713,1068731,66.71,507,71.11
 2021,Goa,Vasco da Gama,31,88,73,365,263029,138.77,184,50.41
-2020,Lakshadweep,Minicoy,138,293,22,656,328000,200.0,346,52.74
+2020,Lakshadweep,Minicoy,138,293,22,656,328000,200,346,52.74
 2020,Sikkim,Gyalshing,161,200,28,440,204324,215.34,400,90.91
 2018,Puducherry,Puducherry,110,253,95,575,705993,81.45,474,82.43
-2022,Chhattisgarh,Raipur,88,210,81,809,350224,231.0,724,89.49
-2019,Himachal Pradesh,Kangra,43,148,63,745,477560,156.0,673,90.34
+2022,Chhattisgarh,Raipur,88,210,81,809,350224,231,724,89.49
+2019,Himachal Pradesh,Kangra,43,148,63,745,477560,156,673,90.34
 2022,Telangana,Nizamabad,192,225,34,515,732470,70.31,429,83.3
 2020,Karnataka,Bengaluru,125,120,84,713,923887,77.17,458,64.24
 2022,Manipur,Churachandpur,113,222,16,848,338551,250.48,530,62.5
@@ -2653,7 +2653,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2022,Punjab,Amritsar,140,33,70,578,222880,259.33,436,75.43
 2022,Meghalaya,Jowai,67,157,26,740,1954463,37.86,676,91.35
 2019,Goa,Panaji,79,43,86,633,574365,110.21,377,59.56
-2020,Ladakh,Kargil,145,75,36,559,1242214,45.0,406,72.63
+2020,Ladakh,Kargil,145,75,36,559,1242214,45,406,72.63
 2020,Jharkhand,Dhanbad,97,182,8,680,544662,124.85,660,97.06
 2020,West Bengal,Darjeeling,81,134,94,632,783032,80.71,565,89.4
 2022,West Bengal,Kolkata,132,223,55,529,1880282,28.13,398,75.24
@@ -2670,7 +2670,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Sikkim,Namchi,171,190,49,895,1359509,65.83,519,57.99
 2020,Meghalaya,Tura,135,193,98,669,921040,72.64,524,78.33
 2018,Arunachal Pradesh,Tawang,30,60,20,596,1464503,40.7,392,65.77
-2021,Andaman and Nicobar Islands,Diglipur,81,50,9,500,803535,62.23,290,58.0
+2021,Andaman and Nicobar Islands,Diglipur,81,50,9,500,803535,62.23,290,58
 2020,Puducherry,Puducherry,159,30,53,563,1760843,31.97,336,59.68
 2021,Arunachal Pradesh,Tawang,10,127,80,488,487143,100.18,276,56.56
 2019,Chhattisgarh,Raipur,100,280,65,561,1896195,29.59,342,60.96
@@ -2691,7 +2691,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Andhra Pradesh,Vijayawada,27,181,35,342,1543018,22.16,208,60.82
 2019,Karnataka,Mysuru,196,293,71,1022,1849753,55.25,864,84.54
 2019,Karnataka,Bengaluru,75,284,22,551,332969,165.48,494,89.66
-2020,Goa,Margao,118,115,85,387,1264393,30.61,298,77.0
+2020,Goa,Margao,118,115,85,387,1264393,30.61,298,77
 2019,Madhya Pradesh,Bhopal,44,132,97,414,1928535,21.47,265,64.01
 2020,Chhattisgarh,Bilaspur,26,62,18,432,514774,83.92,380,87.96
 2022,Assam,Dibrugarh,162,157,6,521,676322,77.03,480,92.13
@@ -2714,9 +2714,9 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Jammu and Kashmir,Anantnag,196,89,11,420,1570903,26.74,417,99.29
 2020,Tamil Nadu,Madurai,126,219,12,654,1314588,49.75,395,60.4
 2018,Uttarakhand,Haridwar,195,237,11,813,1567774,51.86,540,66.42
-2018,Delhi,South Delhi,146,48,96,439,1068727,41.08,360,82.0
+2018,Delhi,South Delhi,146,48,96,439,1068727,41.08,360,82
 2022,Rajasthan,Udaipur,102,165,53,401,797858,50.26,385,96.01
-2020,Dadra and Nagar Haveli and Daman and Diu,Daman,79,160,45,429,166927,257.0,363,84.62
+2020,Dadra and Nagar Haveli and Daman and Diu,Daman,79,160,45,429,166927,257,363,84.62
 2019,Madhya Pradesh,Indore,101,294,27,480,1253535,38.29,354,73.75
 2018,Kerala,Kochi,179,25,50,550,723237,76.05,362,65.82
 2020,Jharkhand,Jamshedpur,188,119,95,797,355263,224.34,643,80.68
@@ -2744,7 +2744,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Assam,Silchar,145,62,98,443,1407058,31.48,312,70.43
 2020,Punjab,Ludhiana,188,112,74,734,866217,84.74,470,64.03
 2018,Arunachal Pradesh,Itanagar,150,159,17,468,462312,101.23,283,60.47
-2018,Uttar Pradesh,Agra,121,65,82,562,176177,319.0,500,88.97
+2018,Uttar Pradesh,Agra,121,65,82,562,176177,319,500,88.97
 2022,Rajasthan,Jodhpur,26,84,64,476,704337,67.58,259,54.41
 2020,West Bengal,Siliguri,141,236,75,754,146618,514.26,527,69.89
 2019,Nagaland,Mokokchung,89,179,81,652,389550,167.37,330,50.61
@@ -2772,7 +2772,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,West Bengal,Kolkata,88,145,16,574,185519,309.4,445,77.53
 2021,Manipur,Churachandpur,49,24,50,576,994443,57.92,464,80.56
 2022,Telangana,Warangal,188,289,33,901,1925505,46.79,620,68.81
-2018,Rajasthan,Udaipur,33,146,5,515,201964,255.0,392,76.12
+2018,Rajasthan,Udaipur,33,146,5,515,201964,255,392,76.12
 2019,Nagaland,Dimapur,137,108,6,576,1860679,30.96,414,71.88
 2020,Chhattisgarh,Raipur,95,104,100,380,532413,71.37,194,51.05
 2022,Lakshadweep,Kavaratti,123,187,42,676,521367,129.66,491,72.63
@@ -2782,7 +2782,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Assam,Guwahati,78,78,27,438,737385,59.4,245,55.94
 2020,Nagaland,Kohima,17,193,30,664,1130503,58.73,438,65.96
 2019,Rajasthan,Udaipur,114,47,7,338,1969893,17.16,217,64.2
-2021,Gujarat,Vadodara,69,255,55,497,1840723,27.0,273,54.93
+2021,Gujarat,Vadodara,69,255,55,497,1840723,27,273,54.93
 2021,Puducherry,Puducherry,196,190,75,926,235627,392.99,720,77.75
 2020,Uttarakhand,Dehradun,200,236,79,958,457315,209.48,779,81.32
 2019,Manipur,Churachandpur,77,134,43,703,1039786,67.61,695,98.86
@@ -2822,7 +2822,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Tripura,Udaipur,135,149,43,825,253051,326.02,796,96.48
 2018,Haryana,Gurugram,92,86,63,570,1395434,40.85,483,84.74
 2018,Andhra Pradesh,Vijayawada,104,201,92,675,1191314,56.66,443,65.63
-2019,Dadra and Nagar Haveli and Daman and Diu,Silvassa,116,195,51,539,1474280,36.56,518,96.1
+2019,Kerala,Silvassa,116,195,51,539,1474280,36.56,518,96.1
 2020,Karnataka,Bengaluru,141,260,54,783,1894671,41.33,550,70.24
 2019,Uttar Pradesh,Agra,59,249,62,793,1414550,56.06,759,95.71
 2020,Tamil Nadu,Madurai,175,88,52,803,1875465,42.82,596,74.22
@@ -2832,12 +2832,12 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,West Bengal,Darjeeling,95,147,6,660,373411,176.75,610,92.42
 2021,Ladakh,Leh,200,24,33,326,1908526,17.08,320,98.16
 2020,Chhattisgarh,Durg,175,58,10,514,873815,58.82,456,88.72
-2021,Puducherry,Puducherry,56,111,84,528,427297,123.57,396,75.0
+2021,Puducherry,Puducherry,56,111,84,528,427297,123.57,396,75
 2021,Andhra Pradesh,Visakhapatnam,162,50,54,624,1398860,44.61,569,91.19
 2019,Karnataka,Bengaluru,129,134,26,656,376330,174.32,650,99.09
 2018,Bihar,Patna,61,124,13,644,418884,153.74,607,94.25
 2021,Madhya Pradesh,Bhopal,56,210,98,734,570819,128.59,721,98.23
-2019,Sikkim,Gyalshing,28,299,59,800,1595531,50.14,470,58.75
+2019,Sikkim,Gyalshing,28,299,59,800,Dadra ,50.14,470,58.75
 2022,Odisha,Cuttack,25,100,34,333,1304649,25.52,253,75.98
 2018,Tripura,Udaipur,134,110,49,695,1911348,36.36,570,82.01
 2022,Meghalaya,Tura,122,179,75,674,1535142,43.9,339,50.3
@@ -2846,8 +2846,8 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Arunachal Pradesh,Tawang,104,247,40,509,1805407,28.19,387,76.03
 2022,Karnataka,Mysuru,168,156,76,481,1209225,39.78,344,71.52
 2019,West Bengal,Siliguri,114,151,78,645,1244630,51.82,441,68.37
-2022,Madhya Pradesh,Bhopal,30,102,9,409,1688590,24.22,249,60.88
-2019,Dadra and Nagar Haveli and Daman and Diu,Daman,180,226,28,638,245517,259.86,434,68.03
+2022,Madhya Pradesh,Bhopal,30,102,9,409,1688590,24.22,1249,60.88
+2019,Daman and Diu,Daman,180,226,28,638,245517,259.86,434,68.03
 2019,Rajasthan,Jaipur,84,128,59,580,1495343,38.79,378,65.17
 2022,Lakshadweep,Minicoy,148,37,44,568,1203957,47.18,359,63.2
 2020,Ladakh,Kargil,183,187,35,723,660521,109.46,541,74.83
@@ -2855,7 +2855,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2020,Andhra Pradesh,Visakhapatnam,92,47,50,406,329951,123.05,365,89.9
 2019,Meghalaya,Shillong,112,93,67,359,1435357,25.01,330,91.92
 2019,Tripura,Agartala,96,24,16,466,334055,139.5,421,90.34
-2021,Puducherry,Puducherry,92,295,37,528,841203,62.77,264,50.0
+2021,Puducherry,Puducherry,92,295,37,528,841203,62.77,264,50
 2022,Tripura,Kailashahar,25,167,59,524,723355,72.44,422,80.53
 2021,Tamil Nadu,Coimbatore,149,132,68,716,776940,92.16,427,59.64
 2018,West Bengal,Siliguri,33,115,15,635,1690934,37.55,601,94.65
@@ -2871,7 +2871,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Bihar,Muzaffarpur,96,218,81,794,1529785,51.9,435,54.79
 2022,Goa,Margao,185,112,43,430,400460,107.38,218,50.7
 2019,Punjab,Ludhiana,13,120,65,254,60619,419.01,183,72.05
-2020,Dadra and Nagar Haveli and Daman and Diu,Diu,131,149,83,558,857608,65.06,313,56.09
+2020, Daman and Diu,Diu,131,149,83,558,857608,65.06,313,56.09
 2022,Bihar,Gaya,127,100,81,446,931623,47.87,348,78.03
 2020,Uttarakhand,Dehradun,166,45,26,598,1529162,39.11,509,85.12
 2020,Karnataka,Mangaluru,20,131,63,513,561606,91.35,309,60.23
@@ -2888,7 +2888,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Rajasthan,Jaipur,14,101,7,481,1210916,39.72,442,91.89
 2018,Odisha,Rourkela,38,167,66,460,468745,98.13,284,61.74
 2021,Telangana,Warangal,104,185,19,745,218566,340.86,415,55.7
-2020,Dadra and Nagar Haveli and Daman and Diu,Daman,172,296,73,982,283226,346.72,790,80.45
+2020,Daman and Diu,Daman,172,296,73,982,283226,346.72,790,80.45
 2019,Sikkim,Gyalshing,101,185,71,612,1626046,37.64,415,67.81
 2022,Andaman and Nicobar Islands,Diglipur,32,290,16,398,1604830,24.8,232,58.29
 2018,Madhya Pradesh,Bhopal,68,111,91,460,619260,74.28,398,86.52
@@ -2901,7 +2901,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,Andaman and Nicobar Islands,Diglipur,129,295,87,817,83802,974.92,500,61.2
 2019,Karnataka,Mysuru,37,181,100,392,1241795,31.57,362,92.35
 2019,Telangana,Warangal,124,103,37,424,880209,48.17,398,93.87
-2020,West Bengal,Siliguri,160,173,91,752,1777953,42.3,564,75.0
+2020,West Bengal,Siliguri,160,173,91,752,1777953,42.3,564,75
 2022,Meghalaya,Tura,73,217,35,501,426210,117.55,371,74.05
 2020,Telangana,Hyderabad,55,204,79,829,938426,88.34,596,71.89
 2019,Punjab,Amritsar,93,30,79,393,1715194,22.91,201,51.15
@@ -2919,7 +2919,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2021,West Bengal,Siliguri,177,228,83,754,1290603,58.42,727,96.42
 2022,Tamil Nadu,Coimbatore,106,226,30,679,666968,101.8,644,94.85
 2018,Puducherry,Karaikal,176,82,26,590,1675348,35.22,466,78.98
-2019,Karnataka,Bengaluru,94,68,35,581,57696,1007.0,505,86.92
+2019,Karnataka,Bengaluru,94,68,35,581,57696,1007,505,86.92
 2021,Ladakh,Kargil,95,80,20,378,1659131,22.78,248,65.61
 2020,West Bengal,Siliguri,71,174,70,811,1070348,75.77,676,83.35
 2022,Gujarat,Vadodara,185,240,74,692,932578,74.2,392,56.65
@@ -2930,7 +2930,7 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2018,Jharkhand,Jamshedpur,39,147,44,543,850650,63.83,510,93.92
 2020,Uttar Pradesh,Agra,180,114,22,428,1408350,30.39,400,93.46
 2021,Delhi,New Delhi,21,104,16,577,793287,72.74,294,50.95
-2018,Dadra and Nagar Haveli and Daman and Diu,Daman,85,31,15,631,906363,69.62,369,58.48
+2018,Kerala,Daman,85,31,15,631,906363,69.62,369,58.48
 2020,Chandigarh,Chandigarh,137,187,77,529,1044485,50.65,350,66.16
 2018,Goa,Vasco da Gama,139,43,72,344,425242,80.9,295,85.76
 2018,Maharashtra,Mumbai,104,260,47,819,797280,102.72,640,78.14
@@ -2998,4 +2998,4 @@ Year,State,District,Rape Cases,Abduction Cases,Murder Cases,Total Crimes,Populat
 2019,Telangana,Warangal,19,300,72,833,685975,121.43,661,79.35
 2021,Arunachal Pradesh,Itanagar,22,136,20,439,677041,64.84,316,71.98
 2021,Manipur,Churachandpur,58,218,56,777,1970611,39.43,462,59.46
-2018,Andhra Pradesh,Vijayawada,75,277,56,905,390783,231.59,847,93.59
+2018,Daman and Diu,Vijayawada,75,277,56,905,390783,231.59,847,93.59
